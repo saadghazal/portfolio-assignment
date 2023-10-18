@@ -1,0 +1,130 @@
+body {
+    background-color: black;
+    padding: 0;
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+    color: white;
+    font-weight: 300;
+}
+
+h1,h2,h3,h4,h6{
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.brand {
+    color: #BC3CD8;
+    font-size: 2.2rem;
+}
+
+.s-link {
+    margin-right: 30px;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.nav-items {
+    position: absolute;
+    right: 0;
+    display: inline-block;
+    text-align: center;
+    padding-top: 1rem;
+    width: 20rem;
+    height: 3rem;
+
+}
+
+#navigation-bar {
+    margin: 30px;
+
+}
+
+.self-intro {
+    height: 350px;
+    line-height: 350px;
+    text-align: center;
+    padding-left: auto;
+    padding-right: auto;
+    margin-bottom: 7rem;
+    width: auto;
+    height: 30rem;
+    background-color: white;
+}
+
+.self-intro-text {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+    color: white;
+    font-size: 3.2rem;
+    margin: auto;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-weight: 300;
+    color: black;
+}
+
+#education {
+    text-align: center;
+    margin-bottom: 7rem;
+    color: white;
+}
+
+.edu-icon {
+    color: #bc3bd8;
+    margin-bottom: 30px;
+}
+
+.edu-paragraph {
+    font-size: 1.5rem;
+    font-weight: 300;
+    padding: 0;
+    margin: 0;
+}
+
+#skills {
+   
+    text-align: center;
+    height: 50rem;
+    position: relative;
+    background-color: white;
+   padding-top: 30px;
+}
+.s-link:hover{
+    color: #bc3bd8;
+}
+
+.star {
+    color: #bc3bd8;
+}
+
+.skills-p{
+    color: black;
+    font-weight: 400;
+}
+#years-question{
+    text-align: center;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+.years-text{
+    font-size: 1.4rem;
+}
+#contact-me{
+    text-align: center;
+    background-color: white;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+.mail-to{
+    color: gray;
+}
+.mail-to:hover{
+    color: #bc3bd8;
+}
